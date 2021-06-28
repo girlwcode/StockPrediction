@@ -1,4 +1,4 @@
-## StockPrediction
+# StockPrediction
 주식 예측 (삼성전자, 비트코인, TESLA, Apple
 사용 tool : jupyter notebook, prophet, RNN
 예측 기간 : 2021.5.1 - 2022.12.31 (661일)
