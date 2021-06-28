@@ -1,7 +1,7 @@
 # StockPrediction
-주식 예측 (삼성전자, 비트코인, TESLA, Apple
-사용 tool : jupyter notebook, prophet, RNN
-예측 기간 : 2021.5.1 - 2022.12.31 (661일)
+주식 예측 (삼성전자, 비트코인, TESLA, Apple\n
+사용 tool : jupyter notebook, prophet, RNN\n
+예측 기간 : 2021.5.1 - 2022.12.31 (661일)\n
 
 ## 비트코인 주가
 ![bitcoin_data](https://user-images.githubusercontent.com/69211032/123569564-87369400-d801-11eb-8b43-4eaaf4620351.png)
